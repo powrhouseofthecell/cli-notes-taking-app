@@ -14,12 +14,15 @@
 npm install
 ```
 
-## Run The Script
+## Run
 
 ```sh
 npm run start
 ```
 
+## Usage
+
+```sh
 ## Add a new note
 
 node app.js add --title="Buy" --body="Food"
@@ -35,6 +38,8 @@ node app.js read --title="Buy"
 ## Remove a note
 
 node app.js remove --title="Buy"
+
+```
 
 ## Author
 
