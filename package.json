@@ -3,10 +3,7 @@
    "version": "1.0.0",
    "description": "",
    "main": "app.js",
-   "scripts": {
-      "start": "node app.js"
-   },
-   "author": "",
+   "author": "Zuhaib",
    "license": "ISC",
    "dependencies": {
       "chalk": "^2.4.1",
